@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://joneselite.ca/sitemap.xml
